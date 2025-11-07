@@ -10,7 +10,7 @@ class FenrirRealmPlugin implements Plugin.PluginBase {
   name = 'Fenrir Realm';
   icon = 'src/en/fenrirrealm/icon.png';
   site = 'https://fenrirealm.com';
-  version = '1.1.1';
+  version = '1.1.2';
   imageRequestInit?: Plugin.ImageRequestInit | undefined = undefined;
 
   // properly convert storage string to boolean
